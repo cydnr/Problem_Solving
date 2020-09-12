@@ -76,3 +76,15 @@ for i in range(N):
             scores.append(0)
     print(sum(scores))
 '''
+
+# 4344 평균은 넘겠지
+C = int(input())
+for c in range(C) :
+    students = list(map(int, input().split()))
+    avg = (sum(students)-students[0]) / students[0]
+    above = 0
+    for i in range(1, students[0]+1):
+        if students[i] > avg :
+            above += 1
+    propor = above/students[0]
+    print(format(propor, ".3%"))
