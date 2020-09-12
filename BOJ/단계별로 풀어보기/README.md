@@ -27,6 +27,7 @@
 3. [for문](https://bit.ly/3bOTHK8)
 4. [while문](https://bit.ly/3mcxdrn)
 5. [실습1](https://bit.ly/3hi9ylL)
+6. [1차원 배열](https://bit.ly/3kbr5h5)
 
 
 
