@@ -29,5 +29,5 @@
 5. [실습1](https://bit.ly/3hi9ylL)
 6. [1차원 배열](https://bit.ly/3kbr5h5)
 
-7. 함수
+7. [함수](https://bit.ly/32BMpXa)
 
