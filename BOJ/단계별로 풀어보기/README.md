@@ -26,9 +26,10 @@
 2. [if문](https://bit.ly/2ZtdXMF)
 3. [for문](https://bit.ly/3bOTHK8)
 4. [while문](https://bit.ly/3mcxdrn)
-5. [1차원 배열](https://bit.ly/3kbr5h5)
-6. [함수](https://bit.ly/32BMpXa)
+5. [1차원 배열](https://bit.ly/2FFwOwN)
+6. [함수](https://bit.ly/32Dn5zY)
+7. [문자열](https://bit.ly/3hGwATi)
 
-7. [문자열](https://bit.ly/3hEFTU2)
 
-   +) [실습1](https://bit.ly/3hi9ylL)
+
+- [실습1](https://bit.ly/35XoljR)
