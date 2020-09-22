@@ -13,8 +13,8 @@
 | 2578  |    [빙고](https://www.acmicpc.net/problem/2578)     | :star: |      |
 | 2563  |   [색종이](https://www.acmicpc.net/problem/2563)    |        |      |
 | 2564  |   [경비원](https://www.acmicpc.net/problem/2564)    |        |      |
-| 2491  |        https://www.acmicpc.net/problem/2491         |        |      |
-| 2477  |        https://www.acmicpc.net/problem/2477         |        |      |
+| 2491  |    [수열](https://www.acmicpc.net/problem/2491)     |        |      |
+| 2477  |   [참외밭](https://www.acmicpc.net/problem/2477)    |        |      |
 | 2527  |        https://www.acmicpc.net/problem/2527         |        |      |
 | 10157 |        https://www.acmicpc.net/problem/10157        |        |      |
 | 10158 |        https://www.acmicpc.net/problem/10158        |        |      |
