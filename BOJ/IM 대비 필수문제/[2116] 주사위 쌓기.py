@@ -35,14 +35,4 @@ for i in range(1,7) :
         bottom = top
     if adding > big:
         big = adding
-print(big)        
-
-
-
-
-
-
-
-
-
-
+print(big)
