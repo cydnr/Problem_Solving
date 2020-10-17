@@ -23,3 +23,17 @@ else:
     print(-1)
 
 # 2292 벌집
+
+# 1139 분수찾기
+N = int(input())
+till = 0
+cnt = 1
+while till < N :
+    till += cnt
+    cnt += 1
+gap = till-N
+if cnt % 2 :
+    print('{}/{}' .format(cnt-gap-1, 1+gap))
+else :
+    print('{}/{}' .format(1+gap, cnt-gap-1))
+

@@ -1,3 +1,4 @@
+'''
 N = int(input())
 layer = (N-1)//6
 result = 0
@@ -6,3 +7,4 @@ while result<layer:
     rooms += 1
     result += rooms
 print(rooms)
+'''
