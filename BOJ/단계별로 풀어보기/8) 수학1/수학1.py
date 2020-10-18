@@ -23,6 +23,13 @@ else:
     print(-1)
 
 # 2292 벌집
+N = int(input())
+room = 1
+layer= 1
+while room < N:
+    room += 6*layer
+    layer += 1
+print(layer)
 
 # 1139 분수찾기
 N = int(input())
@@ -36,4 +43,8 @@ if cnt % 2 :
     print('{}/{}' .format(cnt-gap-1, 1+gap))
 else :
     print('{}/{}' .format(1+gap, cnt-gap-1))
+
+# 2869 달팽이는 올라가고 싶다
+A, B, V = map(int, input().split())
+print( (V-A)//(A-B) +2 if (V-A)%(A-B) else (V-A)//(A-B) +1)
 
