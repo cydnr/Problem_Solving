@@ -48,3 +48,18 @@ else :
 A, B, V = map(int, input().split())
 print( (V-A)//(A-B) +2 if (V-A)%(A-B) else (V-A)//(A-B) +1)
 
+# 10250 ACM호텔
+T = int(input())
+for t in range(T):
+    H, W, N = map(int, input().split())
+    ho = (N // H) + 1
+    floor = N % H
+    if not floor:
+        floor = H
+        ho -= 1
+    result = str(floor)
+    if ho<10:
+        result += '0'+str(ho)
+    else:
+        result += str(ho)
+    print(result)
