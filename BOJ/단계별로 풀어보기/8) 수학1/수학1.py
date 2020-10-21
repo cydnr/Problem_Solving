@@ -63,3 +63,15 @@ for t in range(T):
     else:
         result += str(ho)
     print(result)
+
+# 2775 부녀회장이 될테야
+arr = [[1] for _ in range(15)]
+arr[0] = list(range(1,16))
+for i in range(1,15):
+    for j in range(1,15):
+        arr[i].append(arr[i][j-1]+arr[i-1][j])
+T = int(input())
+for t in range(T):
+    k = int(input())
+    n = int(input())
+    print(arr[k][n-1])
